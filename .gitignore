@@ -1,0 +1,20 @@
+# Ejecutables y binarios
+*.exe
+*.bin
+*.bin-*
+*.o
+*.out
+*.so
+
+# Carpetas generadas y temporales
+bin/
+build/
+*.dSYM/
+
+# Archivos de resultados y pruebas locales
+resultados.txt
+
+# Archivos de sistema / editores
+.vscode/
+Thumbs.db
+Desktop.ini
